@@ -7,7 +7,7 @@ gem::Specification.new do |s|
 
   s.name = "Practica 2"
   s.version = '1.0'
-  s.date = '29/09/2018'
+  s.date = '22/09/2018'
   s.authors = 'Arturo Flores'
-  s.files =
+
 end
